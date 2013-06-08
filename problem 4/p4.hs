@@ -1,0 +1,1 @@
+main = print $ maximum [ x*y | x <- [ 999, 998..900 ], y <- [ 999,998..900 ], ( show ( x*y ) ) == ( reverse ( show ( x*y ) ) ) ]

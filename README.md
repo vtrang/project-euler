@@ -1,0 +1,1 @@
+Puzzles are fun! Sharing solutions to puzzles are even more fun, so I'll be posting my Project Euler code as I solve them.
